@@ -3,7 +3,28 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**29** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 28 | 1 | 0 | 0 | 29 |
+
+**Recently solved**
+
+- [medium-case-110](https://xomdata.com/practice/medium-case-110) · Medium · 2026-08-17
+- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-08-17
+- [easy-where-023](https://xomdata.com/practice/easy-where-023) · Easy · 2026-08-17
+- [easy-where-020](https://xomdata.com/practice/easy-where-020) · Easy · 2026-08-17
+- [easy-distinct-007](https://xomdata.com/practice/easy-distinct-007) · Easy · 2026-08-17
+- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-17
+- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-17
+- [easy-avg-001](https://xomdata.com/practice/easy-avg-001) · Easy · 2026-08-17
+- [easy-count-002](https://xomdata.com/practice/easy-count-002) · Easy · 2026-08-17
+- [easy-count-001](https://xomdata.com/practice/easy-count-001) · Easy · 2026-08-17
+
+_Synced 29 solutions · last update 2026-08-17_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo
