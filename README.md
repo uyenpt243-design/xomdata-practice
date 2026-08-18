@@ -4,14 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**32** problems solved on [Xom Data](https://xomdata.com/practice).
+**34** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 29 | 3 | 0 | 0 | 32 |
+| SQL | 29 | 5 | 0 | 0 | 34 |
 
 **Recently solved**
 
+- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-08-18
+- [medium-join-029](https://xomdata.com/practice/medium-join-029) · Medium · 2026-08-18
 - [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-08-18
 - [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-17
 - [easy-where-001](https://xomdata.com/practice/easy-where-001) · Easy · 2026-08-17
@@ -20,10 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [easy-where-023](https://xomdata.com/practice/easy-where-023) · Easy · 2026-08-17
 - [easy-where-020](https://xomdata.com/practice/easy-where-020) · Easy · 2026-08-17
 - [easy-distinct-007](https://xomdata.com/practice/easy-distinct-007) · Easy · 2026-08-17
-- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-17
-- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-17
 
-_Synced 32 solutions · last update 2026-08-18_
+_Synced 34 solutions · last update 2026-08-18_
 
 <!-- xomdata:stats:end -->
 

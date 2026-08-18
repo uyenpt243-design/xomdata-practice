@@ -30,5 +30,7 @@
   "practice/sql/medium/medium-case-110/solution.sql": "8c6c172aadcb390718b71342c5632875a34004ad75db73699693cf1e76eba7c7",
   "practice/sql/easy/easy-where-001/solution.sql": "f4d06e2bcad26eec5c50b42a9d74423a811c2a6a0d519711bbae43073b44e91f",
   "practice/sql/medium/medium-join-001/solution.sql": "38320ed4a4c79ca4f653c46f6ef29fdb507f2813a51a916088f8d72f097d78f1",
-  "practice/sql/medium/medium-join-014/solution.sql": "d25d4bb547a631525aef9427cff535c900a7dbeebddb4fda510d8390503e15ef"
+  "practice/sql/medium/medium-join-014/solution.sql": "d25d4bb547a631525aef9427cff535c900a7dbeebddb4fda510d8390503e15ef",
+  "practice/sql/medium/medium-join-029/solution.sql": "7b25f5eabf78f4139cd976e36adfea828d9399fdeb8eedbefb71940e28f63d6a",
+  "practice/sql/medium/medium-join-076/solution.sql": "173b425cdf46cb17173732bd6df51acd88164167e9433be6937e068ebfed4e91"
 }
