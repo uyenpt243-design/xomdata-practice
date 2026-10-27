@@ -46,5 +46,9 @@
   "practice/sql/medium/medium-subquery-103/solution.sql": "5e89695e2a1208fb912d61743cc19fc59193a57c676f105bc3cef710af3574ba",
   "practice/sql/medium/medium-coalesce-040/solution.sql": "1ff97b44961e0e98cda27e4d89d878f857834ef85456a3d63df881a5c538ae46",
   "practice/sql/medium/medium-datefunction-045/solution.sql": "1071fc44155a422ab3c6670fa8ff96ddcdf6eaffb948b0b537529ba4f2d1e18f",
-  "practice/sql/medium/medium-union-175/solution.sql": "073a7d3169e1e9f6bd383d440bab4b52e5abb020d1648a998e1b15cce61ad741"
+  "practice/sql/medium/medium-union-175/solution.sql": "073a7d3169e1e9f6bd383d440bab4b52e5abb020d1648a998e1b15cce61ad741",
+  "practice/sql/medium/medium-agg-127/solution.sql": "a71f6e2368dd364df9a39c0919eda25e203445d9f185456f05d7e0df2c379826",
+  "practice/sql/hard/hard-topn-001/solution.sql": "d22a9e7368e2db9c8e7a9a59c36c53f05fbdb90713f2acf75828aeefba4c9d6c",
+  "practice/sql/hard/hard-frame-001/solution.sql": "3c738a2c34f3059318a05ed72162ae8f0b72ee4e14a42ae21b6fab205d620d28",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "876e453e2943d24215da2d185f7dda14ca203e2fc3a4c4bacf8e80f75bb8c920"
 }
